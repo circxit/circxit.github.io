@@ -37,7 +37,7 @@ export default function TechnicalMetrics() {
 								<h4 className="text-lg font-semibold text-gray-300">Linux</h4>
 								<ul className="mt-2 space-y-2 text-gray-400">
 									<li>• I use it</li>
-									<li>• It's very cool</li>
+									<li>• Its very cool</li>
 									<li>• Uhm</li>
 								</ul>
 							</motion.div>
